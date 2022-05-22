@@ -22,5 +22,3 @@ In this hackshop, you will use a variety of Azure services and related products.
 1.  [Building Machine Learning in Power BI](./Student/04-PowerBIAutoML.md)
 1.  [Building Models in Azure Machine Learning AutoML](./Student/05-AMLAutoML.md)
 
-## Post Core, Optional Challenges
-1.  [(Optional) Building Models in Azure Machine Learning Designer](./Student/06-AMLDesigner.md)
