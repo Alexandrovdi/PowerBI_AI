@@ -1,4 +1,4 @@
-Navigation ----  [Start page](https://github.com/Alexandrovdi/PowerBI_AI) -> [Step 2 - Dataflows](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md?plain=1)
+### Navigation ---->  [Start page](https://github.com/Alexandrovdi/PowerBI_AI) <-> [Step 2 - Dataflows](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md?plain=1)
 
 
 # Setup
