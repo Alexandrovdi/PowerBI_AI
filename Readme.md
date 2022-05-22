@@ -1,6 +1,6 @@
 # Welcome to the BI2AI Hack
 
-This is a challenge-based hack. It's NOT step-by-step. Don't worry, you will do great whatever your level of experience! You will be guided through different tasks to implement comprehensive analytics by leveraging Power BI, Azure Cognitive Servies, and Azure Machine Learning to deliver an AI enabled analytics solution.  This exercise is designed to take you, the business intelligence practitioner, and introduce you to a variety of concepts around artificial intelligence and machine learning.  We realize that there is a lot to becoming a data scientist, and upskilling in this area can be an intimidating tasks.  The goal of this Hack is to give you practical areas where you can gain value out of predictive technologies today and amplify the value of the analytics soluitons.
+You will be guided through different tasks to implement comprehensive analytics by leveraging Power BI, Azure Cognitive Servies, and Azure Machine Learning to deliver an AI enabled analytics solution.  This exercise is designed to take you, the business intelligence practitioner, and introduce you to a variety of concepts around artificial intelligence and machine learning.  We realize that there is a lot to becoming a data scientist, and upskilling in this area can be an intimidating tasks.  The goal of this Hack is to give you practical areas where you can gain value out of predictive technologies today and amplify the value of the analytics soluitons. Don't worry, you will do great whatever your level of experience!
 
 ## **Introduction**
 
