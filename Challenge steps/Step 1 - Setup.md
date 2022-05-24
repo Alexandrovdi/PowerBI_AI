@@ -17,21 +17,6 @@ The first challenge is to setup an environment that will help you build the end 
 
 Download these files and load them to a storage container in your Azure subscription to get started.
 
-## Setup steps
-1. Create Storage account 
-2. Create Container and name it's "Backup"
-3. Upload backup to storage.
-4. Create SQL Server (logical server)
-### **Hints: In Networking menu in SQL Server, we must "Allow Azure service and resources to access this server" and we must add "Add your client IP address"**
-5. Import database to SQL Server 
-6. Create Power BI Embedded instance 
-7. Create a workspace in Power BI Service
-
-## Success criteria
-
-1.  A restored version of the Adventure Works Data Warehouse
-2.  A Power BI application workspace with assigned premium capacity
-
 ## **Important!**
 ## <span style="color:orange">**This is the most expensive resource we use in this event. It's a good idea to pause the capacity when you're not using it.**</span>
 
@@ -46,6 +31,27 @@ To save your money and in study purposes we will use this plans:
 
 > Power BI Embedded - Choose SKU A2
 
+
+<br>
+<br>
+
+
+
+## Setup steps
+1. Create Storage account 
+2. Create Container and name it's "Backup"
+3. Upload backup to storage.
+4. Create SQL Server (logical server)
+   - In Networking menu in SQL Server, we must "Allow Azure service and resources to access this server" and we must add "Add your client IP address"
+5. Import database to SQL Server 
+   - Use STANDART plan and 20 DTUs
+6. Create Power BI Embedded instance 
+7. Create a workspace in Power BI Service
+
+## Success criteria
+
+1.  A restored version of the Adventure Works Data Warehouse
+2.  A Power BI application workspace with assigned premium capacity
 
 <br>
 <br>
