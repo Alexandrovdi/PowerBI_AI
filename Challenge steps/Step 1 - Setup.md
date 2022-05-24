@@ -69,4 +69,4 @@ To save your money and in study purposes we will use this plans:
 
 <br>
 
-[Next challenge (Working with Data in Power BI) >](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md)
+[Next step (Working with Data in Power BI) >](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md)
