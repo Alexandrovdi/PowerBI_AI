@@ -19,10 +19,10 @@ Download these files and load them to a storage container in your Azure subscrip
 
 ## Setup steps
 1. Create Storage account 
-2. Create Container
+2. Create Container and name it's "Backup"
 3. Upload backup to storage.
 4. Create SQL Server (logical server)
-### **Hints: We must "Allow Azure service and resources to access this server"**
+### **Hints: In Networking menu in SQL Server, we must "Allow Azure service and resources to access this server" and we must add "Add your client IP address"**
 5. Import database to SQL Server 
 6. Create Power BI Embedded instance 
 7. Create a workspace in Power BI Service
