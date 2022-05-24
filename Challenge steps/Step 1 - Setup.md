@@ -33,7 +33,7 @@ Download these files and load them to a storage container in your Azure subscrip
 2.  A Power BI application workspace with assigned premium capacity
 
 ## **Important!**
-## <span style="color:red">**This is the most expensive resource we use in this event. It's a good idea to pause the capacity when you're not using it.**</span>
+## <span style="color:orange">**This is the most expensive resource we use in this event. It's a good idea to pause the capacity when you're not using it.**</span>
 
 
 <br>
