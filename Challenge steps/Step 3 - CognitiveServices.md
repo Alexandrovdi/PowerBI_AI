@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. [Challenge 2 - Working with Data in Power BI](./02-Dataflows.md) should be done successfully.
+1. [Step 2 - Working with Data in Power BI](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md) should be done successfully.
 
 
 ## Introduction
@@ -22,7 +22,7 @@ The purpose of this challenge is to show users how to operationalize cognitive s
 
 ## Potential pitfalls
 
-1.  Sometimes dataflows will have a sequencing problem that causes the dataflow to change prior to the AI logic being applied.   If this occurs, you'll need to cancel your save and start over on applying the AI.  Best bet is to save after each AI step to be safe.
+1.  Sometimes dataflows will have a sequencing problem that causes the dataflow to change prior to the AI logic being applied. If this occurs, you'll need to cancel your save and start over on applying the AI. Best bet is to save after each AI step to be safe.
 
 
-[Next challenge (Building Machine Learning in Power BI) >](./04-PowerBIAutoML.md)
+[Next step (Building Machine Learning in Power BI) >](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%204%20-%20Building%20Machine%20Learning.md)
