@@ -1,4 +1,4 @@
-### Navigation ---->  [Start page](https://github.com/Alexandrovdi/PowerBI_AI) <-> [Step 2 - Dataflows](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md?plain=1)
+### Navigation ---->  [Start page](https://github.com/Alexandrovdi/PowerBI_AI) <-> [Step 2 - Dataflows](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md)
 
 
 # Setup
@@ -69,4 +69,4 @@ To save your money and in study purposes we will use this plans:
 
 <br>
 
-[Next challenge (Working with Data in Power BI) >](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md?plain=1)
+[Next challenge (Working with Data in Power BI) >](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md)
