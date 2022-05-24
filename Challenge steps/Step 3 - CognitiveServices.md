@@ -11,14 +11,15 @@ The purpose of this challenge is to show users how to operationalize cognitive s
 
 
 ## Basic Steps to Complete
-1. Edit the existing dataflow and import a new entity to include the Bike Reviews data
+1. Edit the existing dataflow (on msit.powerbi.com) and import a new tables to include the Bike Reviews data
 1. Enter the connection information for the csv/text file from a url
-1. Add an AI step to the data flow to detect language using the review text
-1. Expand the structured results of the cognitive service to retrieve the language and language iso code
-1. Add another AI step to score sentiment using the review text and the language iso code as inputs
-1. Add another AI step to extract key phrases using the review text and language iso code as inputs
-1. Save, close, and refresh the data dataflow
-1. In Power BI Desktop import the new bike reviews entity from the data flow source, and examine the results
+2. Rename from Query to BikeReviews
+3. Add an AI step to the data flow to detect language using the review text
+4. Expand the structured results of the cognitive service to retrieve the language and language iso code
+5. Add another AI step to score sentiment using the review text and the language iso code as inputs
+6. Add another AI step to extract key phrases using the review text and language iso code as inputs
+7. Save, close, and refresh the data dataflow
+8. In Power BI Desktop import the new bike reviews entity from the data flow source, and examine the results
 
 ## Potential pitfalls
 
