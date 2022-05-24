@@ -45,8 +45,7 @@ To save your money and in study purposes we will use this plans:
    - In Networking menu in SQL Server, we must "Allow Azure service and resources to access this server" and we must add "Add your client IP address"
 5. Import database to SQL Server 
    - Use STANDART plan and 20 DTUs
-6. Create Power BI Embedded instance 
-7. Create a workspace in Power BI Service
+6. Create Power BI Embedded instance
 
 ## Success criteria
 
