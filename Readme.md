@@ -20,5 +20,5 @@ In this hackshop, you will use a variety of Azure services and related products.
 1.  [Working with Data in Power BI](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%202%20-%20Dataflows.md)
 1.  [Working with Cognitive Services](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%203%20-%20CognitiveServices.md)
 1.  [Building Machine Learning in Power BI](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%204%20-%20Building%20Machine%20Learning.md)
-1.  [Building Models in Azure Machine Learning AutoML](./Student/05-AMLAutoML.md)
+1.  [Building Models in Azure Machine Learning AutoML](./Student/05-AMLAutoML.md)  Maybe delete!!!
 
