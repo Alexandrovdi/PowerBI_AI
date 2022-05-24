@@ -30,6 +30,7 @@ The purpose of this challenge is to introduce the participants to working with P
     - Make the relationship OrderDate (DateKey) and Sales (OrderDateKey) active
     - Create the relationship between Customers and Sales tables by "CustomerKey" key
     - Create the relationship between Products and Sales tables by "ProductKey" key
+15. Create report with your coach 
 
 ## Potential pitfalls
 
