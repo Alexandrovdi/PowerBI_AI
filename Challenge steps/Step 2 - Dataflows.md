@@ -25,7 +25,9 @@ The purpose of this challenge is to introduce the participants to working with P
 11. Launch Power BI Desktop and start the "Get Data" process
 12. Naviagite to the Power BI Dataflows data source
 13. Select the objects created in Step 1
-14. Build reports with the loaded data
+14. Work with data model:
+    - Disable relationship OrderDate (DateKey) and Sales (DueDateKey)
+    - Make the relationship OrderDate (DateKey) and Sales (OrderDateKey) active
 
 ## Potential pitfalls
 
