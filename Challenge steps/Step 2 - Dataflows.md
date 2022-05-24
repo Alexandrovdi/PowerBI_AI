@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. [Step 1 - Setup](./Step 1 - Setup.md) should be done successfully.
+1. [Step 1 - Setup](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%201%20-%20Setup.md) should be done successfully.
 
 
 ## Introduction
@@ -13,7 +13,7 @@ The purpose of this challenge is to introduce the participants to working with P
 ## Basic Steps to complete
 1. Login to www.powerbi.com and create a new workspace
 1. In your workspace create a new "Dataflow"
-1. Enter connection details for the database you restored in Challenge 1
+1. Enter connection details for the database you restored in Step 1
 1. Select the Products and Customers views, and the FactInternetSales and DimDate tables
 1. Select Transform data
 1. Save and refresh the dataflow
@@ -29,4 +29,4 @@ The purpose of this challenge is to introduce the participants to working with P
 1. If the users is working with a new account for this it is possible that there is a conflict between the credentials in Power BI desktop and the Power BI dataflow.  You may need to clear Power BI's credential cache.
 
 
-[Next challenge (Working with Cognitive Services) >](./03-CognitiveServices.md)
+[Next Step (Working with Cognitive Services) -->](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%203%20-%20CognitiveServices.md)
