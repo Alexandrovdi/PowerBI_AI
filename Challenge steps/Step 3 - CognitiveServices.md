@@ -1,4 +1,4 @@
-# Challenge 3 - Working with Cognitive Services
+# Step 3 - Working with Cognitive Services
 
 ## Prerequisites
 
