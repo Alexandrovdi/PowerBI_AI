@@ -26,4 +26,4 @@ The purpose of this challenge is to train an operationalize an ML model leveragi
 1.  The datasets for ProspectiveBuyer and BikeBuyer don't match exactly.   ProspectiveBuyer has a birthday column not an age column.   You need to manipulate the BirthDate column to calculate the age before you can apply the model to ProspectiveBuyer.
 
 
-[Next challenge (Building Models in Azure Machine Learning - AutoML) >](./05-AMLAutoML.md)
+[Next challenge (Building Models in Azure Machine Learning - AutoML) >](./05-AMLAutoML.md) maybe delete!!!!!!!!!!!!!!!!!!
