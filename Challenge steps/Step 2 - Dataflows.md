@@ -28,6 +28,8 @@ The purpose of this challenge is to introduce the participants to working with P
 14. Work with data model:
     - Disable relationship OrderDate (DateKey) and Sales (DueDateKey)
     - Make the relationship OrderDate (DateKey) and Sales (OrderDateKey) active
+    - Create the relationship between Customers and Sales tables by "CustomerKey" key
+    - Create the relationship between Products and Sales tables by "ProductKey" key
 
 ## Potential pitfalls
 
