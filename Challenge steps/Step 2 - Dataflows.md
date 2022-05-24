@@ -12,15 +12,20 @@ The purpose of this challenge is to introduce the participants to working with P
 
 ## Basic Steps to complete
 1. Login to www.powerbi.com and create a new workspace
-1. In your workspace create a new "Dataflow"
-1. Enter connection details for the database you restored in Step 1
-1. Select the Products and Customers views, and the FactInternetSales and DimDate tables
-1. Select Transform data
-1. Save and refresh the dataflow
-1. Launch Power BI Desktop and start the "Get Data" process
-1. Naviagite to the Power BI Dataflows data source
-1. Select the objects created in step one
-1. Build reports with the loaded data
+   - Choose in Premium tab "Embedded" capacity what we create in Step 1
+3. In your workspace create a new "Dataflow" and choose "Define new tables"
+4. Enter connection details for the database you restored in Step 1
+5. Select the Products and Customers views, and the FactInternetSales and DimDate tables
+6. Select Transform data
+   - Rename "DimDate" to "OrderDate"
+   - Rename "FactInternetSales" to "Sales"
+8. Click "Save and close"
+9. Name your dataflow "AdventureWorks"
+10. Refresh the dataflow
+11. Launch Power BI Desktop and start the "Get Data" process
+12. Naviagite to the Power BI Dataflows data source
+13. Select the objects created in Step 1
+14. Build reports with the loaded data
 
 ## Potential pitfalls
 
