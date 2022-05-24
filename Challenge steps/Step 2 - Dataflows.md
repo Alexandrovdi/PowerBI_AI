@@ -1,4 +1,4 @@
-# Challenge 2 - Working with Data in Power BI
+# Step 2 - Working with Data in Power BI
 
 ## Prerequisites
 
@@ -29,4 +29,4 @@ The purpose of this challenge is to introduce the participants to working with P
 1. If the users is working with a new account for this it is possible that there is a conflict between the credentials in Power BI desktop and the Power BI dataflow.  You may need to clear Power BI's credential cache.
 
 
-[Next Step (Working with Cognitive Services) -->](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%203%20-%20CognitiveServices.md)
+[Next step (Working with Cognitive Services) -->](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%203%20-%20CognitiveServices.md)
