@@ -57,9 +57,8 @@ To save your money and in study purposes we will use this plans:
 
 ## Learning resources
 
-|                                            |                                                                                                                                                       |
-| ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Description**                            |                                                                       **Links**                                                                       |
+
+| **Description**                            |                              **Links**                                                                       |
 | create storage account  | https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal#create-a-storage-account-1|
 | create sql server   | https://docs.microsoft.com/en-us/azure/azure-sql/database/logical-servers?view=azuresql#manage-servers-databases-and-firewalls-using-the-azure-portal |
 | azure sql server import db | https://docs.microsoft.com/en-us/azure/azure-sql/database/database-import?view=azuresql&tabs=azure-powershell |
