@@ -1,8 +1,8 @@
-# Challenge 4 - Building Machine Learning in Power BI
+# Step 4 - Building Machine Learning in Power BI
 
 ## Prerequisites
 
-1. [Challenge 3 - Working with Cognitive Services](./03-CognitiveServices.md) should be done successfully.
+1. [Step 3 - Working with Cognitive Services](https://github.com/Alexandrovdi/PowerBI_AI/blob/main/Challenge%20steps/Step%203%20-%20CognitiveServices.md) should be done successfully.
 
 ## Introduction
 The purpose of this challenge is to train an operationalize an ML model leveraging AutoML in Power BI premium capacity.
