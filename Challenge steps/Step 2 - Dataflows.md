@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. [Challenge 1 - Setup](./01-Setup.md) should be done successfully.
+1. [Step 1 - Setup](./Step 1 - Setup.md) should be done successfully.
 
 
 ## Introduction
