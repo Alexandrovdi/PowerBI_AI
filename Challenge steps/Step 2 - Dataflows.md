@@ -7,14 +7,17 @@
 
 ## Introduction
 
-The purpose of this challenge is to introduce the participants to working with Power BI Dataflows which will be used in challenges 2 - 4, and visualizing data with Power BI which will demonstrate the prepared data.
+The purpose of this challenge is to introduce the participants to working with Power BI Dataflows which will be used in steps 2 - 4, and visualizing data with Power BI which will demonstrate the prepared data.
 
 
 ## Basic Steps to complete
-1. Login to www.powerbi.com and create a new workspace
-   - Choose in Premium tab "Embedded" capacity what we create in Step 1
+1. Login to [powerbi.com](https://msit.powerbi.com/) and create a new workspace
+   - Named your workspace
+   - Click "Advanced" and choose "License mode" -> Embedded
+   - Select capacity -> "pbi2aiembedded"
+   - Click Save
 3. In your workspace create a new "Dataflow" and choose "Define new tables"
-4. Enter connection details for the database you restored in Step 1
+4. Choose data source Azure SQL Database
 5. Select the Products and Customers views, and the FactInternetSales and DimDate tables
 6. Select Transform data
    - Rename "DimDate" to "OrderDate"
@@ -23,8 +26,8 @@ The purpose of this challenge is to introduce the participants to working with P
 9. Name your dataflow "AdventureWorks"
 10. Refresh the dataflow
 11. Launch Power BI Desktop and start the "Get Data" process
-12. Naviagite to the Power BI Dataflows data source
-13. Select the objects created in Step 1
+12. Navigaite to the Power BI Dataflows data source
+13. Select the Dataflows that we created earlier
 14. Work with data model:
     - Disable relationship OrderDate (DateKey) and Sales (DueDateKey)
     - Make the relationship OrderDate (DateKey) and Sales (OrderDateKey) active
