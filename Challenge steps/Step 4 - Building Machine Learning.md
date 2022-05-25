@@ -24,6 +24,3 @@ The purpose of this challenge is to train an operationalize an ML model leveragi
 
 1.  This step requires A2 capacity to complete, the AI features won't show up unless an A2 capacity is assigned to the workspace.
 2.  The datasets for ProspectiveBuyer and BikeBuyer don't match exactly. ProspectiveBuyer has a birthday column not an age column.   You need to manipulate the BirthDate column to calculate the age before you can apply the model to ProspectiveBuyer.
-
-
-[Next challenge (Building Models in Azure Machine Learning - AutoML) >](./05-AMLAutoML.md) maybe delete!!!!!!!!!!!!!!!!!!
