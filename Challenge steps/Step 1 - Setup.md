@@ -39,7 +39,7 @@ To save your money and in study purposes we will use this plans:
 
 ## Setup steps
 1. Create Storage account 
-2. Create Container and name it's "Backup"
+2. Create Container and name it's "backup"
 3. Upload backup to storage.
 4. Create SQL Server (logical server)
    - In Networking menu in SQL Server, we must "Allow Azure service and resources to access this server" and we must add "Add your client IP address"
