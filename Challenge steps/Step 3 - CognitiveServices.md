@@ -12,7 +12,7 @@ The purpose of this challenge is to show users how to operationalize cognitive s
 
 ## Basic Steps to Complete
 1. Edit the existing dataflow (on msit.powerbi.com) and import a new tables to include the Bike Reviews data
-1. Enter the connection information for the csv/text file from a url
+1. Enter the connection information for the csv/text file from a [url](https://raw.githubusercontent.com/Alexandrovdi/PowerBI_AI/main/Data/bike%20reviews.csv)
 2. Rename from Query to BikeReviews
 3. Add an AI step to the data flow to detect language using the review text
 4. Expand the structured results of the cognitive service to retrieve the language and language iso code
